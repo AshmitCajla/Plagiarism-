@@ -1,0 +1,3 @@
+Abstract. We introduce PixelPlayer,Our approach is based on 
+natural synchronization of the visual and audio models to learn models that jointly persue sounds and audios, while requiring manual supervision in addition. Experimental results on an old MUSIC dataset show that our proposed Separate-and-Mix frames underperforms in several lines of source mixing . Quantitative results tell our model learns sounds in vision, disabling applications such
+as dependently adjusting the noise of picture sources
